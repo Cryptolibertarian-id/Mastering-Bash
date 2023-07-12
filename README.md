@@ -1,4 +1,7 @@
 # Mastering Bash
+
+
+
 Learning Path to Learn Bash | With Gun
 
 
@@ -13,9 +16,19 @@ Learning Path to Learn Bash | With Gun
 
 
 
-# Header
+Last touched on 12 July 2023
 
-Last touched on 28 July 2022
+
+
+# Shell
+
+Shell is command interpreter for the linux operating system, shell provides interactive user interface between user and kernel.
+
+
+
+## Zsh
+
+Zsh is a shell designed for interactive use and powerful scripting language
 
 
 
